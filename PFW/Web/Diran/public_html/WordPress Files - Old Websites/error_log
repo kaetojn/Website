@@ -1,0 +1,1 @@
+[14-Nov-2013 15:01:34] PHP Warning:  version_compare() expects parameter 2 to be string, object given in /home3/realty/public_html/wp-admin/includes/class-wp-upgrader.php on line 2138

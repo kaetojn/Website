@@ -1,0 +1,984 @@
+[09-Nov-2016 20:40:43 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:40:43 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:40:43 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:42:00 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:42:00 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:42:00 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:42:00 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:42:00 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 12
+[09-Nov-2016 20:42:00 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:42:00 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 12
+[09-Nov-2016 20:42:00 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:42:00 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 12
+[09-Nov-2016 20:43:42 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:43:42 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:43:42 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:43:42 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:42 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:42 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:42 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:42 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:42 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:59 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:43:59 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:43:59 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:43:59 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:59 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:59 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:59 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:59 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:43:59 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:44:19 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:44:19 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:44:19 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[09-Nov-2016 20:44:19 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:44:19 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:44:19 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:44:19 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:44:19 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:44:19 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[09-Nov-2016 20:46:30 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:46:30 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:46:30 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:48:39 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:48:39 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:48:39 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:49:33 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 20:49:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 20:50:56 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:50:56 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:50:56 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:51:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:51:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:51:40 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:51:40 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 5
+[09-Nov-2016 20:51:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:51:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:51:40 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:52:15 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:52:15 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:52:15 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:53:45 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:53:45 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:53:45 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:54:23 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:54:23 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:54:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:54:33 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:54:33 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:54:33 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:56:23 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:56:23 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:56:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 20:59:48 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:59:48 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 20:59:48 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:00:12 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:00:12 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:00:12 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:02:15 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:15 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:15 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:37 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:02:37 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:02:37 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:02:43 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:43 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:43 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:51 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:51 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:02:51 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:05:33 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:05:33 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:05:33 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:05:42 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:05:42 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:05:42 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:12:49 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:12:49 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:12:49 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:12:49 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:15:03 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:15:03 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:15:03 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:15:09 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:15:09 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:15:09 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:15:09 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:18:11 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:18:11 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:18:11 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:18:33 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:18:33 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:18:33 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:18:41 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:18:41 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:18:41 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:18:41 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:21:09 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:21:09 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:21:09 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:21:09 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:21:33 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:21:33 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:21:33 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:21:33 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:24:53 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:24:53 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:24:53 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:24:53 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:24:53 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:12 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:12 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:12 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:12 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:12 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:13 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:13 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:13 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:13 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:13 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:17 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:17 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:17 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:17 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:17 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:19 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:19 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:19 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:19 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:19 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:32 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:32 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:32 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:32 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:32 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:45 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:45 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:45 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:47 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:47 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:47 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:47 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:47 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:25:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:25:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:25:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:25:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:25:48 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:25:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:29:00 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:29:00 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:29:00 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:29:00 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:29:12 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:29:12 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:29:12 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:29:24 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:29:24 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:29:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 21:30:26 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:30:26 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:30:26 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:30:26 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:30:46 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:30:46 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:30:46 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:34:57 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:34:57 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:34:57 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:34:57 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:34:57 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:34:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:17 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:17 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:17 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:17 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:17 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:19 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:19 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:19 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:19 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:19 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:30 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:30 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:30 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:30 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:30 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:31 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:31 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:31 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:31 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:31 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:48 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:52 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:52 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:52 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:52 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:52 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:35:53 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:35:53 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:35:53 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:35:53 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:35:53 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:37:22 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:37:22 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:37:22 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:37:22 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:37:22 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:37:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:37:24 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:37:24 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:37:24 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:37:24 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:37:24 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:37:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:39:09 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:39:09 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:39:09 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 21:51:33 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:51:33 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:51:33 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:51:33 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:51:33 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:51:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:51:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 29
+[09-Nov-2016 21:51:57 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:51:57 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:51:57 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:51:57 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:51:57 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:51:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:51:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:51:59 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:51:59 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:51:59 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:51:59 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:51:59 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:51:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:51:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:00 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:20 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:20 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:20 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:20 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:20 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:21 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:21 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:21 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:21 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:21 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:22 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:22 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:22 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:22 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:22 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:38 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:38 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:38 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:38 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:38 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:39 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:39 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:39 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:39 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:39 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:48 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:48 UTC] PHP Notice:  Undefined variable: final in /home/cooeeuas/public_html/kaeto/db/update.php on line 28
+[09-Nov-2016 21:52:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:49 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:49 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:49 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:49 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:49 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:49 UTC] PHP Notice:  Undefined variable: final in /home/cooeeuas/public_html/kaeto/db/update.php on line 28
+[09-Nov-2016 21:52:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:52:59 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:52:59 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:52:59 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:52:59 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:52:59 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:52:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 14
+[09-Nov-2016 21:52:59 UTC] PHP Notice:  Undefined variable: final in /home/cooeeuas/public_html/kaeto/db/update.php on line 28
+[09-Nov-2016 21:52:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 30
+[09-Nov-2016 21:54:53 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:54:53 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:54:53 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:54:53 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:54:53 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:54:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:54:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 31
+[09-Nov-2016 21:55:10 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:55:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:55:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:55:10 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:55:10 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:55:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:55:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[09-Nov-2016 21:56:04 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:56:04 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:56:04 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:56:04 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:56:04 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 21:56:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 21:56:04 UTC] PHP Notice:  Undefined variable: finals in /home/cooeeuas/public_html/kaeto/db/update.php on line 27
+[09-Nov-2016 21:56:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[09-Nov-2016 21:56:15 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:56:15 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:56:15 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:56:15 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:57:56 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:57:56 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:57:56 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:57:56 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:58:47 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:58:47 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:58:47 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:58:47 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 21:59:47 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 21:59:47 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 21:59:47 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 21:59:47 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[09-Nov-2016 22:00:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Undefined variable: finals in /home/cooeeuas/public_html/kaeto/db/update.php on line 27
+[09-Nov-2016 22:00:38 UTC] PHP Notice:  Undefined variable: json_encode in /home/cooeeuas/public_html/kaeto/db/update.php on line 29
+[09-Nov-2016 22:00:38 UTC] PHP Fatal error:  Function name must be a string in /home/cooeeuas/public_html/kaeto/db/update.php on line 29
+[09-Nov-2016 22:02:41 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:02:41 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:02:41 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:02:41 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:02:41 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 26
+[09-Nov-2016 22:03:03 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:03:03 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:03:03 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:03:03 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:03:31 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:03:31 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:03:31 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:03:31 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:03:38 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:03:38 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:03:38 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:03:38 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:04:09 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:04:09 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:04:09 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:04:09 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:04:18 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:04:18 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:04:18 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:04:29 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:04:29 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:04:29 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:04:29 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:07:09 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:07:09 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:07:09 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:07:09 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:07:14 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:07:14 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:07:14 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:07:14 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:07:33 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:07:33 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:07:33 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:07:33 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:08:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:08:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:08:40 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:08:48 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:08:48 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:08:48 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:08:57 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 22:08:57 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 22:08:57 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[09-Nov-2016 22:11:27 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:11:27 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:11:27 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:11:27 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:12:40 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:12:40 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:12:40 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:12:40 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[09-Nov-2016 22:13:02 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:13:02 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:13:02 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[09-Nov-2016 22:13:10 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[09-Nov-2016 22:13:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[09-Nov-2016 22:13:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[09-Nov-2016 22:13:10 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 00:37:54 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 00:37:54 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 00:37:54 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 00:37:54 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 00:37:54 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 00:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 00:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:22:44 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:22:44 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:22:44 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:22:44 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:22:44 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:22:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:22:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 35
+[10-Nov-2016 15:22:45 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:22:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:22:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:22:45 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:22:45 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:22:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:22:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 35
+[10-Nov-2016 15:23:15 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:23:15 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:23:15 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:23:15 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:23:34 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:23:34 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:23:34 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:23:34 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:23:34 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:23:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:23:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 35
+[10-Nov-2016 15:24:00 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:24:00 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:24:00 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:24:00 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:24:03 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:24:03 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:24:03 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:24:03 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:24:03 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:24:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:24:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 35
+[10-Nov-2016 15:24:22 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:24:22 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:24:22 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:24:22 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:25:34 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:25:34 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:25:34 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:25:34 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:25:44 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:25:44 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:25:44 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:25:44 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:25:44 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:32:07 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:32:07 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:32:07 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:32:07 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:32:07 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:32:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 46
+[10-Nov-2016 15:32:47 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:32:47 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:32:47 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:32:47 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:32:47 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:32:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 47
+[10-Nov-2016 15:33:10 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:33:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:33:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:33:10 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:33:10 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:33:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 49
+[10-Nov-2016 15:36:29 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:36:29 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:36:29 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:36:29 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:36:29 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 47
+[10-Nov-2016 15:38:49 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:38:49 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:38:49 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:38:49 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:38:49 UTC] PHP Warning:  join() [<a href='function.join'>function.join</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 24
+[10-Nov-2016 15:39:01 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:39:01 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:39:01 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:39:01 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:39:01 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:39:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:39:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 47
+[10-Nov-2016 15:40:39 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:40:39 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:40:39 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:40:39 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:40:39 UTC] PHP Warning:  join() [<a href='function.join'>function.join</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 24
+[10-Nov-2016 15:40:46 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:40:46 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:40:46 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:40:46 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:40:46 UTC] PHP Warning:  join() [<a href='function.join'>function.join</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 24
+[10-Nov-2016 15:40:54 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:54 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:54 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:54 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 5
+[10-Nov-2016 15:40:55 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:55 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:55 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:56 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:56 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:56 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:40:56 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 5
+[10-Nov-2016 15:41:08 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:41:08 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:41:08 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 15:41:23 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:41:23 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:41:23 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:41:23 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:41:23 UTC] PHP Warning:  join() [<a href='function.join'>function.join</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 24
+[10-Nov-2016 15:44:34 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:44:34 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:44:34 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:44:34 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:44:34 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:44:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 15
+[10-Nov-2016 15:44:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 47
+[10-Nov-2016 15:44:45 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:44:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:44:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:44:45 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:44:45 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:44:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 48
+[10-Nov-2016 15:45:39 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:45:39 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:45:39 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:45:39 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:45:54 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:45:54 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:45:54 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:45:54 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:45:54 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 15:45:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 48
+[10-Nov-2016 15:56:15 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:56:15 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:56:15 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:56:15 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:56:15 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:56:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:56:15 UTC] PHP Notice:  Undefined variable: deletes in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 15:56:15 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 15:58:29 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:58:29 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:58:29 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:58:29 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:58:29 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:58:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:58:29 UTC] PHP Notice:  Undefined variable: deletes in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 15:58:29 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 15:59:40 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 15:59:40 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 15:59:40 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 15:59:40 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 15:59:40 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:59:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 15:59:40 UTC] PHP Notice:  Undefined variable: deletes in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 15:59:40 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 16:02:26 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:02:26 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:02:26 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:02:26 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:02:26 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:02:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:02:26 UTC] PHP Notice:  Undefined variable: deletes in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 16:02:26 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/cooeeuas/public_html/kaeto/db/update.php on line 32
+[10-Nov-2016 16:04:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:04:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:04:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:04:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:04:48 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:04:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:05:49 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:05:49 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:05:49 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:05:49 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:05:49 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:05:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:06:01 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:06:01 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:06:01 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:06:01 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:06:01 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:06:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:07:04 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:07:04 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:07:04 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:07:04 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:07:04 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:07:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:07:20 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:07:20 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:07:20 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:07:28 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:07:28 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:07:28 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:07:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:07:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:07:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:07:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:07:48 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:07:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:09:30 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:09:30 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:09:30 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:09:30 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:09:30 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:09:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:09:45 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:09:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:09:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:09:45 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:09:45 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:09:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:09:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:11:12 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:11:12 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:11:12 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:11:12 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:11:12 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:11:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:11:23 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:11:23 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:11:23 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:11:23 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:11:23 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:11:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:11:32 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:11:32 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:11:32 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:11:39 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:11:39 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:11:39 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[10-Nov-2016 16:11:50 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:11:50 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:11:50 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:11:50 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:11:50 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:11:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:12:06 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:12:06 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:12:06 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:12:06 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:12:06 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:12:12 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:12:12 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:12:12 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:12:12 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:12:12 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:12:22 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:12:22 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:12:22 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:12:22 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:12:22 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:12:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 20
+[10-Nov-2016 16:14:32 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:14:32 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:14:32 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:14:32 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:14:32 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:14:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:14:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:14:56 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:14:56 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:14:56 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:14:56 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:14:56 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:14:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:14:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:15:36 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:15:36 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:15:36 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:15:36 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:15:36 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:15:42 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:15:42 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:15:42 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:15:42 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:15:42 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:15:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:15:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:15:44 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:15:44 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:15:44 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:15:44 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:15:44 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:15:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:15:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:15:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:15:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:15:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:15:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:15:48 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:15:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:15:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:16:12 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:16:12 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:16:12 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:16:12 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:16:12 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:16:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:16:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 56
+[10-Nov-2016 16:16:33 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:16:33 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:16:33 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:16:33 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:16:33 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:16:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:16:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 57
+[10-Nov-2016 16:23:05 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:23:05 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:23:05 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:23:05 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:23:05 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:23:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:23:45 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:23:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:23:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:23:45 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:23:45 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:23:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:24:23 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:24:23 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:24:23 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:24:23 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:24:23 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:24:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:25:03 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:25:03 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:25:03 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:25:03 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:25:03 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:25:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:06 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:27:06 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:27:06 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:27:06 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:27:06 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:23 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:27:23 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:27:23 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:27:23 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:27:23 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:41 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:27:41 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:27:41 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:27:41 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:27:41 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:27:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 63
+[10-Nov-2016 16:27:43 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:27:43 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:27:43 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:27:43 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:27:43 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:27:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:27:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 63
+[10-Nov-2016 16:30:56 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:30:56 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:30:56 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:30:56 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:30:56 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:30:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:31:05 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:31:05 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:31:05 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:31:05 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:31:05 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:31:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:31:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 58
+[10-Nov-2016 16:32:28 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:32:28 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:32:28 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:32:28 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:32:28 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:32:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:32:35 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:32:35 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:32:35 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:32:35 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:32:35 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:32:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:32:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 59
+[10-Nov-2016 16:34:04 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:34:04 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:34:04 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:34:04 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:34:04 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:34:12 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:34:12 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:34:12 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:34:12 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:34:12 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:34:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:00 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:35:00 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:35:00 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:35:00 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:35:00 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:10 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:35:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:35:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:35:10 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:35:10 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:48 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:35:48 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:35:48 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:35:48 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:35:48 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:54 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:35:54 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:35:54 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:35:54 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:35:54 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[10-Nov-2016 16:35:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:35:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 60
+[10-Nov-2016 16:36:07 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 16:36:07 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 16:36:07 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 16:36:07 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 16:36:07 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 16:36:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 19:11:24 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[10-Nov-2016 19:11:24 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[10-Nov-2016 19:11:24 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[10-Nov-2016 19:11:24 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[10-Nov-2016 19:11:24 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 19:11:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[10-Nov-2016 19:15:17 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[10-Nov-2016 19:15:17 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[10-Nov-2016 19:15:17 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[10-Nov-2016 19:15:18 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[10-Nov-2016 19:15:18 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[10-Nov-2016 19:15:18 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[11-Nov-2016 17:08:29 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[15-Nov-2016 14:18:02 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[15-Nov-2016 14:18:02 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[15-Nov-2016 14:18:02 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 2
+[15-Nov-2016 14:18:02 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[15-Nov-2016 14:18:02 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[15-Nov-2016 14:18:02 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[15-Nov-2016 14:18:02 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[15-Nov-2016 14:18:02 UTC] PHP Notice:  Use of undefined constant firstname - assumed 'firstname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[15-Nov-2016 14:18:02 UTC] PHP Notice:  Use of undefined constant lastname - assumed 'lastname' in /home/cooeeuas/public_html/kaeto/db/usertext.php on line 11
+[15-Nov-2016 14:18:17 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[15-Nov-2016 14:18:17 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[15-Nov-2016 14:18:17 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/readtext.php on line 2
+[15-Nov-2016 14:18:25 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/infotext.php on line 2
+[15-Nov-2016 14:18:25 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/infotext.php on line 2
+[15-Nov-2016 14:18:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/infotext.php on line 2
+[16-Nov-2016 21:21:35 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[16-Nov-2016 21:21:35 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[16-Nov-2016 21:21:35 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[16-Nov-2016 21:21:35 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[16-Nov-2016 21:21:35 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/update.php on line 5
+[16-Nov-2016 21:21:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[16-Nov-2016 21:21:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 60
+[16-Nov-2016 21:21:37 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 2
+[16-Nov-2016 21:21:37 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 3
+[16-Nov-2016 21:21:37 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 4
+[16-Nov-2016 21:21:37 UTC] PHP Notice:  Constant DB_DATABASE already defined in /home/cooeeuas/public_html/kaeto/db/config.php on line 5
+[16-Nov-2016 21:21:37 UTC] PHP Notice:  Undefined index: id in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[16-Nov-2016 21:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cooeeuas/public_html/kaeto/db/update.php on line 21
+[16-Nov-2016 21:22:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:40 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:40 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:40 UTC] PHP Notice:  Undefined index: data in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 5
+[16-Nov-2016 21:22:44 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:44 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:44 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:45 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:45 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:45 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:48 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:48 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:48 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:49 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:49 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:49 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:49 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:49 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:49 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:50 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:50 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:50 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:56 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:56 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:56 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:57 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:57 UTC] PHP Warning:  include(adminsession.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2
+[16-Nov-2016 21:22:57 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'adminsession.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/cooeeuas/public_html/kaeto/db/attribute.php on line 2

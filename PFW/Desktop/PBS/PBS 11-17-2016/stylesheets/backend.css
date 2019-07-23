@@ -1,0 +1,49 @@
+body {
+	
+	font: 20px Georgia, serif;
+}
+input[type=button] {
+    padding: 15px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 100px;
+    background-color: #008CBA;
+    color: white;
+}
+
+input[type=button]:focus {
+    border-color:#333;
+}
+
+input[type=button]:hover{
+    border-color: #333;
+}
+
+.button{
+    padding:15px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 100px;
+    background-color: #008CBA;
+    color: white;
+}
+
+button:hover{
+   border-color: #333;
+}
+
+table {
+   margin: auto;
+   border: 3px solid black;
+   width: 50%;
+   
+}
+th {
+   border-top: 3px solid black;
+   height: 50px;
+   font: 25px bold Georgia, serif;
+}
+td {
+   height: 100px;
+   
+}

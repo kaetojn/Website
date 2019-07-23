@@ -1,0 +1,54 @@
+doctype html 
+<html lang="en" xml:lang="en">
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<title>Toronto Tutor</title>
+<link href="stylesheets/style.css" rel="stylesheet" type="text/css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="http://use.edgefonts.net/josefin-sans:n1,n4:default.js" type="text/javascript"></script>
+</head>
+<script src="javascripts/indexScroll.js"></script>
+<script src="javascripts/controller.js"></script>
+</head>
+
+<body>
+<header id="header">
+<h1>Toronto Tutor<br>
+<span>The best way to find a Tutor and get instant help.<br>
+<br>
+<a href="#contentContainer">Get Started Now</a></span></h1>
+</header>
+
+
+<div id="contentContainer">	
+<div class="main-content">
+<br><br><br><br><br><br><br>
+<div id="left">
+<h2>Existing Users</h2>
+<form action="/login" method="post">
+<input name="username" type="text" placeholder="User Name" /> <br />
+<input name="password" type="password" placeholder="Password" /> <br />
+<input type="submit" class="submit" value="Log in" /><br><br> 
+</form>
+</div>
+<div id="right">
+<h2>New Users</h2>
+<form action = "/register" method="post">
+<div id="account">
+<input name="username" type="text" placeholder="User Name" /> <br />
+<input name="password" type="password" placeholder="Password" /> <br />
+<input name="email" type="text" placeholder="Email Address" /> <br />
+</div>
+<input type="submit" class="submit" value="Create account" />
+</form>
+<br><br><br><br><br><br><br><br>
+</div>
+
+</div>
+
+</div>
+
+<script type="text/javascript" src="Files/library.js"></script> 
+<script type="text/javascript" src="Files/main.js"></script>
+</body>
+</html>

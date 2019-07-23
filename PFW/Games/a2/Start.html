@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tap Tap Bug</title>
+<script language="javascript" type="text/javascript" src="script.js"></script>
+
+<style>
+@import url("ARCADECLASSIC/stylesheet.css");
+
+h1{
+	font-size: 68px;
+	}
+body{
+	background-color: black;
+	}
+td{
+	font-size: 32px;
+	}
+p{
+	font-size: 32px;
+	}
+button{
+	font-size: 32px;
+	font-family:ARCADECLASSIC;
+	background-color: white;
+	}
+div{
+	padding: 100px;
+	border: 78px  black;
+	color: white;
+	font-family:ARCADECLASSIC;
+	}
+
+.blink {
+  animation: blink 1s steps(5, start) 5;
+  -webkit-animation: blink 1s steps(5, start) 3;
+  
+}
+@keyframes blink {
+  to {
+	
+    visibility: hidden;
+	color: red;
+	color: yellow;
+  }
+  
+}
+@-webkit-keyframes blink {
+  to {
+    visibility: hidden;
+	
+  }
+}
+section{
+	color: white;
+	font-family:ARCADECLASSIC;
+	 position: relative;
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 5s; /* Chrome, Safari, Opera */
+    -webkit-animation-direction: alternate; 
+	}
+@-webkit-keyframes example {
+   	0%   {color:white; margin-left:0; top:0;}
+    33%  {color:yellow; margin-left:-50%; top:0px;}
+	66%  {color:red; margin-left:50%; top:0px;}
+    99%  {color:yellow; margin-left:0px; top:0px;}
+}
+
+</style>
+</head>
+
+<body onLoad="level_and_highscore()">
+
+<div id="View" align="center">
+ <h1 class="blink"> Tap &nbsp; Tap &nbsp; Bug<br><br></h1>
+  <table>
+    <tr>
+      <td>Level:</td>
+      <td><input id="level1" type="radio" name="level" checked="checked" value="level1" onchange="level_and_highscore()"></td>
+      <td><input id="level2" type="radio" name="level" value="level2" onchange="level_and_highscore()"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+  </table>
+  <br/>
+  <p> High Score: <span id="score_count">0</span> </p>
+  <br/>
+  <button type="button" id="start" onclick="start()">Start</button>
+</div>
+
+<section align="center">Play The Game</section>
+
+</body>
+
+</html>

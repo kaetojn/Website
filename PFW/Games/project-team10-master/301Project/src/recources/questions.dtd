@@ -1,0 +1,15 @@
+<!ELEMENT questions (true-false-questions, return-value-questions)>
+<!ELEMENT true-false-questions (question*)>
+<!ELEMENT return-value-questions (question*)>
+<!ELEMENT question (ask, answer, types?, hint*)>
+<!ATTLIST question difficulty (1|2|3|4|5) #REQUIRED>
+<!ELEMENT ask (#PCDATA)>
+<!ELEMENT answer (#PCDATA)>
+<!ELEMENT hint (#PCDATA)>
+<!ELEMENT types (VAR?, ARITHMETIC?, LIST?, FOR?, WHILE?, CALL?)>
+<!ELEMENT VAR EMPTY>
+<!ELEMENT ARITHMETIC EMPTY>
+<!ELEMENT LIST EMPTY>
+<!ELEMENT FOR EMPTY>
+<!ELEMENT WHILE EMPTY>
+<!ELEMENT CALL EMPTY>

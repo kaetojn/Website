@@ -1,0 +1,61 @@
+Question 1 
+1. What is the difference in the definition of a heuristic value for a game state, and for a state in A*
+search? What properties make a heuristic in either situation ‘good’? (3 points total)
+
+Game State:
+A* Search: When you have a goal state
+
+state action pari
+
+
+
+Question 2
+1. Note that Pacman will have suicidal tendencies when playing in situations where death is imminent. Why do you think this is the case? Briefly explain in one or two sentences. (2 points total)
+
+Because there is no solution to the 
+
+
+2. Consider an evaluation function that returns the square of a state’s true minimax value. 
+
+Consider three cases:
+(i) In planning a move (or strategy) for a certain state S, the agent does not hit any terminal state.
+(ii) In planning a move (or strategy) for a certain state S, the agent only hits a terminal state.
+(iii) In planning a move (or strategy) for a certain state S, the agent sometimes hits the terminal state.
+
+(Quesiton is Ambiguous)
+(a) Will the search result in the same strategy in cases (i) and (ii)? [Same/Not Same] (1 point)
+Same
+
+(b) Will the search result in the same strategy in cases (i) and (iii)? [Same/Not Same] (1 point)
+Same
+
+(c) Will the search result in the same strategy in cases (ii) and (iii)? [Same/Not Same] (1 point)
+Same
+
+
+
+
+
+Question 3
+1. You should notice a speed-up compared to your MinimaxAgent. Consider a game tree constructed
+for our Pacman game, where b is the branching factor and where depth is greater than d. Say a
+minimax agent (without alpha-beta pruning) has time to explore all game states up to and including
+those at level d. At level d, this agent will return estimated minimax values from the evaluation
+function.
+
+(a) In the best case scenario, to what depth would alpha-beta be able to search in the same amount
+of time? (1 point total)
+
+(b) In the worst case scenario, to what depth would alpha-beta be able to search in the same amount
+of time? How might this compare with the minimax agent without alpha-beta pruning? (2
+points total)
+
+No pruning
+
+
+2. True or False: Consider a game tree where the root node is a max agent, and we perform a minimax
+search to terminals. Applying alpha-beta pruning to the same game tree may alter the minimax value
+of the root node. (1 point total)
+
+False
+

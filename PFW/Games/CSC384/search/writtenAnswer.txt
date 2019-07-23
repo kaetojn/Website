@@ -1,0 +1,64 @@
+Question 1
+
+a) 
+
+Cosidering pacman can only make North, South, East, West movements. If pacman is starting in the corner of the map, initially, he can only make 2 		moves. The next move he makes he would still be on the edge of the map next to the wall. So he can only make 3 moves. If pacman is anywhere else on 	the map He would be able to make 4 moves. So branching factor is (2(4) + 3(4N-8) + 4(N-2)^2)/(Factors) = 1/16(N-2) Assuming N>2
+
+b) 
+
+Because Pacman is in the middle the average number of moves is 4. So the branching factor will be 4.
+
+c) 
+
+With DFS, The maximum possible depth is when for example Pacman keeps choosing the same direction. Eg: {South, South,.... South} N times then {West, 	 West,.... West} N times and so on... . So the maximum dept would be N^4. But if there is no pathchecking the depth could be an infinite loop.
+
+
+
+Question 2
+
+a) 
+
+Since this is A* search. If f(n) = g(n) + h(n) and h(n) = 0 at the time the goal is reached. 
+Considering that there is no cycle checking. It means that the maximum depth of search tree equals the maximum number of paths on the OPEN List.
+Because the successor funciton produces a maximum of 4 states, (i.e branching factor of 4) log n base 4 would give you the maximum depth. n is cmax
+
+b) 
+
+Then since ctotal = optiomal cost and there is no cycle checking. Note that this is a monotone heuristic (meaning that the cost increases gradually). 	  ctotal/cmin will give you a bound on the cost of the guareenteed solution. A way to prove this is assuming that the action cost is fixed. ctotal/cmin 	would give you a factor bound by the optimal cost. Guarranteing a satisfiable solution.
+
+
+Question 3
+
+a) 
+
+Yes
+
+b) 
+
+Since the hueristic function h(n) is monotone therefore admissible. An admissible heuristic always underestimates the cost to reach the goal. If we let h*(n) be the cost of an optimal path from n	to a goal node. Then an admissible heuristic satisfies the condition h(n) ≤	h*(n)
+
+So g(n') + 3∙h*(n')  ≤ g(n) + 3∙h(n)	
+
+Considering that 3∙h(n) is the worst it goes. And h(n) = 0 at the goal. g(n) ≤ g(n') + 3∙h*(n') (Suboptimal)
+
+So the upper bound for the ratio (cost of returned solution/cost of optimal solution) should be g(n)/f(n)
+
+c) 
+
+Yes
+
+
+
+Question 4
+
+Depending on the pacman game and the cost of an action, you may want to get to the goal as efficiently as possible or explore all possible nodes. 
+
+a) 
+
+Since h1 dominates h2 we know that h1 expands fewer nodes than h2. So in the case where there is food sparcely positioned all around a large map with interiors walls. This heuristic would be able to find the optimal path to the closest food (node) much better than the h1 heuristic.
+
+
+b) 
+
+Since h2 takes a shorter time to compute than h1. In a map with no interior walls, if every position on the map had food and pacman wanted to eat all the food. h2 would not take a long time to compute. As it would simply traverse the whole map one position after the other without concern for optimality of the path and collisions with interior walls.
+

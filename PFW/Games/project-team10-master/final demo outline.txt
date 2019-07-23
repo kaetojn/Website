@@ -1,0 +1,23 @@
+The project we decided upon is an educational game for kids in the grades 5-6 range; the game is meant to be played on a desktop or laptop.  It's meant to introduce them to some of the earliest concepts of programming by gamifying the learning experience in a bid to engage them, interest them and ultimately teach them by utilizing the fun nature of games.
+
+The reasoning behind the creation of our product is simple: kids are by and large not exposed to programming in elementary school and even some high schools lack computer science classes completely despite computer programming becoming more and more relevant to the modern age with each passing day.
+
+This means that many kids are not able to learn anything about what is potentially their future career fields until they run into it in post-secondary studies.  The exposure also allows them to find out if the Computer Science field is where their interests lie.
+
+By gamifying education, studies from New York University have shown that this can increase the motivation to learn by providing a less typical approach to education. Students are also in an environment where they would not be judged by their peers and where failure does not matter. Similarly another study found that the amount of attention required for a game facilitated increased learning. 
+
+Competitors include CodeCombat and Codin Games. The former “teaches” programming through a fun action strategy game. However the extent of the programming, are merely inputs into the game's interface: Goleft(), Goright() for example. Programming fundamentals are not truly explored. Similarly, the latter offers puzzle problems that use a fill in the blank style of solutions; the downside to this is that the problems require an existing knowledge of programming. 
+
+*Structural*
+
+Our game is made as a Java applet; we chose Java for two main reasons: everyone is experienced and comfortable with Java.  In addition, Java's cross-platform compatability is highly valuable to us as it's intended to be played on a personal computer of which there are many different architectures.
+
+The concept of our game is simple: it looks similar to a game like Space Invaders.  Enemies appear at the top of the game area and move down slowly, damaging the player if they make it to the bottom.  If the player takes too much damage, they lose!
+
+**Go into slides, demo game**
+
+*Technical insights*
+
+We should have laid the groundwork of our design out more clearly and in more detail before we began to implement our product.  Dependencies and linkages at times were a bit confusing as we didn't have specifics set in stone at points.  CRC-cards would have most likely helped a lot in our situation.
+
+Since our game is a Java applet, to extend on the cross-platform funcionality of the game, we could even embed the game into a web page.

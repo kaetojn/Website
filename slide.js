@@ -4,9 +4,11 @@ const pron = $(".pron");
 const tag = $(".tag");
 const con1 = $(".contentContainer")
 const con2 = $("#skills")
-const con3 = $(".allinterests")
+const con3 = $(".project")
 const con4 = $(".experiences")
-const con5 = $(".ig")
+const con5 = $(".allinterests")
+const con6 = $(".ig")
+
 
 function transformLetters() {
 	const scroll = window.scrollY;
@@ -128,6 +130,26 @@ function cc55(){
 //***************************************************************
 
 
+//***************************************************************
+function trasformcc6(){
+	const scrollcc = window.scrollY;
+	if (scrollcc >= 4000){
+		con6.style.left = `${((scrollcc)-3980)}vh`;}
+		else{
+			con6.style.left = `20vh`;
+		}
+	}
+
+function cc6(){
+	window.removeEventListener('scroll', trasformcc6, false);
+	con6.style.left = `20vh`;
+	setTimeout(cc66, 100);
+}
+function cc66(){
+	window.addEventListener("scroll", trasformcc6);
+}
+//***************************************************************
+
 
 window.addEventListener("scroll", transformLetters);
 window.addEventListener("scroll", trasformcc);
@@ -135,4 +157,4 @@ window.addEventListener("scroll", trasformcc2);
 window.addEventListener("scroll", trasformcc3);
 window.addEventListener("scroll", trasformcc4);
 window.addEventListener("scroll", trasformcc5);
-
+window.addEventListener("scroll", trasformcc6);

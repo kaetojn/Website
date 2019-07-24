@@ -53,7 +53,7 @@ h7{
 }
 
 .cardtitle{
-	background-color: #233d5e;
+	background-color: #152233;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
 	width: 100%;
@@ -68,7 +68,7 @@ h7{
 	width: 50%;
 	padding-top: 10vh;
 	padding-left: 10vh;
-	color: #fff;
+	color: #152233;
 	font-size: 30px;
 	font-weight: bold;
 }
@@ -122,12 +122,12 @@ h7{
 	left: 20vh;
 	height: 70vh;
 	margin-bottom: 20vh;
-	background: #233d5e;
+	background: #fff;
 	position: relative;
 	z-index: 2;
 	transition: transform .7s;
 	transform: scale(0.7);
-	border-radius: 25px;
+	--border-radius: 25px;
 	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	box-shadow:0 0 20px rgba(0,0,0,0.8);
@@ -181,7 +181,7 @@ h7{
 	top: 100vh;
 	left: 20vh;
 	height: 70vh;
-	background: #233d5e;
+	background: #fff;
 	position: relative;
 	z-index: 2;
 	font-size: 10px;
@@ -191,7 +191,7 @@ h7{
 	overflow-y: hidden;
 	transition: transform .7s;
 	transform: scale(0.7);
-	border-radius: 25px;
+	--border-radius: 25px;
 	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	box-shadow:0 0 20px rgba(0,0,0,0.8);
@@ -257,12 +257,12 @@ img.interest:hover {
 	left: 20vh;
 	height: 70vh;
 	float: left;
-	background: #233d5e;
+	background: #fff;
 	position: relative;
 	z-index: 2;
 	transition: transform .7s;
 	transform: scale(0.7);
-	border-radius: 25px;
+	--border-radius: 25px;
 	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	box-shadow:0 0 20px rgba(0,0,0,0.8);
@@ -319,7 +319,7 @@ img.ex:hover {
 
 /* SKILLS FORMATTING */
 #skills{
-	background-color: #233d5e;
+	background-color: #fff;
 	margin-bottom: 20vh;
 	top: 100vh;
 	height: 70vh;
@@ -330,7 +330,7 @@ img.ex:hover {
 	overflow:auto;
 	transition: transform .7s;
 	transform: scale(0.7);
-	border-radius: 25px;
+	--border-radius: 25px;
 	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	box-shadow:0 0 20px rgba(0,0,0,0.8);
@@ -553,7 +553,7 @@ img.ex:hover {
 /* IG FORMATTING */
 .ig{
 
-	background-color: #233d5e;
+	background-color: #fff;
 	margin-bottom: 20vh;
 	top: 100vh;
 	height: 70vh;
@@ -565,7 +565,7 @@ img.ex:hover {
 	overflow-y: hidden;
 	transition: transform .7s;
 	transform: scale(0.7);
-	border-radius: 25px;
+	--border-radius: 25px;
 	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
 	box-shadow:0 0 20px rgba(0,0,0,0.8);
@@ -598,3 +598,104 @@ img.ex:hover {
 }
 
 
+/* PROJECT FORMATTING */
+.project{
+
+	background-color: #fff;
+	margin-bottom: 20vh;
+	top: 100vh;
+	height: 70vh;
+	position: relative;
+	left: 20vh;
+	z-index: 2;
+	width: 70%;
+	--overflow-x:auto;
+	overflow-y: hidden;
+	transition: transform .7s;
+	transform: scale(0.7);
+	--border-radius: 25px;
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+	box-shadow:0 0 20px rgba(0,0,0,0.8);
+
+}
+
+.project:hover {
+	-ms-transform: scale(1.1); /* IE 9 */
+	-webkit-transform: scale(1.1); /* Safari 3-8 */
+	transition: transform .7s;
+	transform: scale(1.2) rotateX(370deg) perspective(100px) ;
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+	-moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+	box-shadow:0 0 20px rgba(0,0,0,0.8);
+	background: #fff;
+}
+
+.project .introcardcontent{
+	display : none;
+
+}
+
+.project:hover .introcardcontent{
+	display : block;
+
+}
+
+.project:hover .introcardcover{
+	display : none;
+}
+
+iframe{
+	height: 70vh;
+}
+.myIframe
+{
+    width: 80%; 
+}
+
+#pp1{
+	display: none;
+}
+
+#pp2{
+	display: none;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: auto;
+  width: 100%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  overflow: auto;
+}
